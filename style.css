@@ -1,0 +1,18 @@
+.davinci {
+  margin: 30px 0 60px;
+}
+
+.card {
+  margin: 10px;
+  
+}
+
+.card img {
+  margin-bottom: 15px;
+  height: 15rem;
+  
+}
+
+.card p {
+  padding: 0 15px;
+}
